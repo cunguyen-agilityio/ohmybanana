@@ -1,3 +1,5 @@
+# How should colors be organized in a design system?
+
 The way I implement the design system follows a three-tiered color organization: Tokens, Aliases, and Components. This ensures that all colors are reusable.
 
 1. **Token Level:** Represents the raw color values, such as `#000000`, `#ffffff`, `#d32f2f`, etc.
