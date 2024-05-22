@@ -1,4 +1,4 @@
-# OhMyBanana
+# OhMyBanana 🍌
 
 Welcome to **OhMyBanana**, a repository dedicated to sharing knowledge and resources about all things related to bananas. This README will guide you through the purpose and content of the OhMyBanana project.
 
