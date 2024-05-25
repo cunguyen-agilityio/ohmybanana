@@ -1,4 +1,4 @@
-# How can I get the UDID of devices without plugging in the iPhone or connecting to iTunes?
+# How can I get the UDID(Unique Device Identifier) of devices without plugging in the iPhone or connecting to iTunes?
 
 ## Step 1: Download profile
 
