@@ -17,16 +17,8 @@ Welcome to **OhMyBanana**, a repository dedicated to sharing knowledge and resou
 
 ## Contents
 
-😂 _Haha, I haven't thought of content yet so I'll keep this for now_
-
-This repository includes a variety of resources related to bananas, such as:
-
-- **Scientific Articles:** Research papers and articles on the biology, cultivation, and nutritional value of bananas.
-- **Fun Facts:** Interesting and lesser-known facts about bananas.
-- **Recipes:** A collection of delicious banana-based recipes.
-- **Health Benefits:** Information on the health benefits of including bananas in your diet.
-- **Cultural Significance:** Insights into the cultural importance of bananas in different regions around the world.
-- **Sustainability Practices:** Information on sustainable banana farming and its environmental impact.
+1. [How should colors be organized in a design system?](./design-system/colors/README.md)
+2. [How can I get the UDID(Unique Device Identifier) of devices without plugging in the iPhone or connecting to iTunes?](./apple/get-udid/README.md)
 
 ## Usage
 
