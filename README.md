@@ -19,6 +19,7 @@ Welcome to **OhMyBanana**, a repository dedicated to sharing knowledge and resou
 
 1. [How should colors be organized in a design system?](./design-system/colors/README.md)
 2. [How can I get the UDID(Unique Device Identifier) of devices without plugging in the iPhone or connecting to iTunes?](./apple/get-udid/README.md)
+3. [Resolving "Failed to Launch Emulator" Issue on macOS](./android/emulator/README.md)
 
 ## Usage
 
