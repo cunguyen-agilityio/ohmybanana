@@ -1,6 +1,6 @@
-# 💡 React Native Tips by Cư Nguyễn
+# 💡 React Native Tips
 
-A curated collection of useful React Native tips, tricks, and best practices — crafted and shared by Cu.Nguyen to help developers write better and more efficient apps.
+A curated collection of useful React Native tips, tricks, and best practices — crafted and shared to help developers write better and more efficient apps.
 
 ## Why this?
 
