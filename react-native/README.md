@@ -13,4 +13,4 @@ React Native is a powerful framework, but it comes with its own learning curve a
 ## Tips ordered by most recent
 
 - **[June 23, 2025](./tips/How-to-Apply-borderRadius-to-Videos-Using-react-native-video.md)** - How to Apply `borderRadius` to Videos Using `react-native-video`
-- **[June 18, 2025](./tips/Using-react-native-linear-gradient-with-Reanimated.md)** - Using `react-native-linear-gradient` with **Reanimated**
+- **[June 18, 2025](./tips/Using-react-native-linear-gradient-with-Reanimated.md)** - Using `react-native-linear-gradient` with **[Reanimated](https://docs.swmansion.com/react-native-reanimated/)**

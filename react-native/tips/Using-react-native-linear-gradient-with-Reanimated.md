@@ -1,4 +1,4 @@
-# Using react-native-linear-gradient with Reanimated
+# Using react-native-linear-gradient with [Reanimated](https://docs.swmansion.com/react-native-reanimated/)
 
 If you're building dynamic UIs in React Native with smooth animations, chances are you're already using Reanimated (v2 or v3). But what if you want to animate a gradient background using the popular `react-native-linear-gradient` library?
 
