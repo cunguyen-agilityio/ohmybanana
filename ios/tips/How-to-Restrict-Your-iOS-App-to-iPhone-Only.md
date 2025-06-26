@@ -1,4 +1,4 @@
-# How to Restrict Your iOS App to iPhone Only Using UIRequiredDeviceCapabilities and UIDeviceFamily
+# How to Restrict Your iOS App to iPhone Only Using `UIRequiredDeviceCapabilities` and `UIDeviceFamily`
 
 If your iOS app is designed specifically for iPhone and not intended to run on iPads, you can configure it to be installable only on iPhone devices. Apple provides two key settings to control this:
 
